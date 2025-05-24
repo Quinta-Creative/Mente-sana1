@@ -14,15 +14,9 @@ function Login({ onLogin }) {
     }
   }
 
-//Aqui esta la cagada que acabo de hacer
-
-
-//Fin de la cagada que hice
-
   return (
     <div style={{ textAlign: 'center', marginTop: '100px' }}>
       <h2>Inicia Secion</h2>
-      <h2>Mocos</h2>
       <form onSubmit={handleSubmit}>
         <input
           type="text"
