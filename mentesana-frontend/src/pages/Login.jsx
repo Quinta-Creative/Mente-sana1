@@ -136,7 +136,7 @@ function Login({ onLogin }) {
           <FaUserLock />
         </div> */}
         <h2 style={styles.tituloPrincipal}>Inicia Sesion</h2>
-        <h2 style={styles.tituloMocos}>Mocos Maestra solo por que esta bien buena se la paso</h2> {/* Mantenemos "Mocos" con su propio estilo */}
+        <h2 style={styles.tituloMocos}>Mocos masetra solo por que esta bien buena se lo paso </h2> {/* Mantenemos "Mocos" con su propio estilo */}
         <form onSubmit={handleSubmit} style={styles.formulario}>
           <input
             type="text"
